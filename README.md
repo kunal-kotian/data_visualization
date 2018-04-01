@@ -1,7 +1,7 @@
 # global_development
 
 ## Objective
-Exploration of global development indicators through data visaulization.
+Exploration of global development indicators through data visualization.
 
 ## Data Source
 Global Development CSV Library hosted by the CORGIS Dataset Project:
