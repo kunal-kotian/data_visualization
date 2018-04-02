@@ -1,4 +1,4 @@
-# global_development
+# Data Visualization of Global Development Indicators
 
 ## Objective
 Exploration of global development indicators through data visualization.
